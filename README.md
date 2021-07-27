@@ -1,1 +1,1 @@
-# PInomial : https://www.facebook.com/PInomial
+# PInomial : facebook.com/PInomial
